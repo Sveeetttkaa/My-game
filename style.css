@@ -1,3 +1,9 @@
 #gameCanvas {
     border: 2px solid violet;
 }
+
+#again {
+    width: 200;
+    height: 200;
+    display: none;
+}
